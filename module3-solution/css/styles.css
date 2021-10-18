@@ -1,0 +1,17 @@
+button.navbar-toggle {
+	margin-top: -50px;
+}
+
+#main-content {
+	width: 100%;
+}
+
+div.section {
+	background-color: lightgrey;
+	padding: 1px 10px;
+	margin: 15px 0px;
+}
+
+div.section > div {
+	height: 800px;
+}
